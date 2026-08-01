@@ -4,6 +4,9 @@ app/assets/webpack
 node_modules
 
 build/files.wxs
+build/vc_redist.exe
+tabby-uac/x64
+tabby-uac/UAC/x64
 dist
 */dist
 */typings
@@ -28,6 +31,7 @@ docs/api
 .travis.ssh.key
 *.code-workspace
 .idea/
+.vscode/settings.json
 
 .electron-symbols
 sentry.properties
